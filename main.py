@@ -2,8 +2,8 @@ from Location import Location
 from Weather import Weather
 from datetime import datetime
 import time
-weatherKey = '8ecd155f03f2b86f08d6b4c0553646b2'
-IPKey = '164c860164a992513819cda5671be48e'
+weatherKey = 'XXXXXXXXXXXXX'
+IPKey = 'XXXXXXXXXXX'
 units = 'imperial'
 syncTime = False;
 
